@@ -7,8 +7,8 @@ const Users = () => {
     {
       id: 'u1', 
       name: 'Buebe', 
-      image: 'https://obj-sg.thewiki.kr/data/ebb88cebb2a020323031392d31302d31382e6a7067.jpg', 
-      places: 3
+      image: 'https://w.namu.la/s/de28f198096e22c88a35b8fdfa3addb445390e4ed7befa27bd32149d33fa2a16dd4de31b3cbc03a3732c615828d39cfd89639b8150858a5c8646dfce0c963aca4dde1db639838b1439479b5e68ea7222', 
+      places: 2
     },
   ]; // 임시 데이터
 
