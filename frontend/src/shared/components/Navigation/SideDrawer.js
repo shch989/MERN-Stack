@@ -17,7 +17,7 @@ function SideDrawer(props) {
     </CSSTransition>
   );
 
-  return ReactDOM.createPortal(content, document.getElementById('backdrop-hook'))
+  return ReactDOM.createPortal(content, document.getElementById('drawer-hook'))
 }
 
 export default SideDrawer
